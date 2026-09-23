@@ -24,7 +24,7 @@ Used to generate **Fig 6D and 6E**.
   others once with
   `install.packages(c("dplyr","purrr","stringr","tidyr"))`)
 - An **Ensembl VEP** run — done manually on the
-  [VEP web interface](https://www.ensembl.org/vep) between stages 2 and 3.
+  [VEP web interface](https://jun2026.archive.ensembl.org/Mus_musculus/Tools/VEP?db=core) between stages 2 and 3.
 
 ---
 
